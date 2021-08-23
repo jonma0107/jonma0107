@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Mauricio Meza Bastidas</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **in the program of the government of Colombia called Mission Tic 2022**
+- 🌱 I’m currently learning **in the program of the government of Colombia called Mission TIC 2022**
 
 - 📫 How to reach me **mbjonathan@misena.edu.co**
 
