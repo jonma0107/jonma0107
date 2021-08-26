@@ -11,12 +11,12 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMauricioMezaBastidas&layout=compact&hide=javascript" width="350">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">
 
 </p>
 
 <!--
-**JonathanMeza0107/JonathanMeza0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jonma0107/jonma0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
