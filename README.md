@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 
 <br>
 <!-- SPOTIFY -->
-<div align="center">
+
 [<img src="https://spotify-now-playing-7byrhmika-jonma0107.vercel.app/api/spotify-playing" alt="spotify-playing" width="350"/>()
-</div>
+
 ---
 
