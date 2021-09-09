@@ -47,6 +47,7 @@
 </p>
 
 <!--
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">
 **jonma0107/jonma0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
