@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <br>
 <!-- SPOTIFY -->
 <div align="center">
-[![Spotify](spotify-now-playing-7byrhmika-jonma0107.vercel.app)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
+[<img src="https://spotify-now-playing-7byrhmika-jonma0107.vercel.app"/>](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 </div>
 ---
 
