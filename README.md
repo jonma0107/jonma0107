@@ -32,6 +32,7 @@
 <br/>
 
 ---
+
 <!--[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]
@@ -47,6 +48,8 @@
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107">-->
 
 </p>
+
+---
 
 <!--
 
@@ -64,3 +67,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+<!-- SPOTIFY -->
+<div align="center">
+[![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/Johnny Silverhand 1981)
+</div>
+---
