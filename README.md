@@ -70,10 +70,11 @@ Here are some ideas to get you started:
 
 <br>
 <!-- SPOTIFY -->
-<div align="left">
+<div align="right">
 
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
 </div>  
+
 ---
 
