@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **mbjonathan@misena.edu.co**
 
-[web1]: https://www.w3schools.com/html/default.asp/
-[web2]: https://www.w3schools.com/css/default.asp/
+[web1]: https://www.w3schools.com/html/default.asp
+[web2]: https://www.w3schools.com/css/default.asp
 
 ---
 
