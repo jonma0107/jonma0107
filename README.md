@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <br>
 <!-- SPOTIFY -->
 
-[<img src="https://spotify-now-playing-7byrhmika-jonma0107.vercel.app/api/spotify-playing" alt="spotify-playing" width="350"/>(https://open.spotify.com/user/8pjqu5zyoei65wp24bduzhavt)
+[<img src="https://spotify-now-playing-7byrhmika-jonma0107.vercel.app/>(https://open.spotify.com/user/8pjqu5zyoei65wp24bduzhavt)
 
 ---
 
