@@ -44,7 +44,7 @@
 
 
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107=compact)]>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107=compact>
   
   
 
