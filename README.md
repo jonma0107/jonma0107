@@ -12,7 +12,7 @@
 [web5]: https://www.w3schools.com/mysql/default.asp
 [web6]: https://www.w3schools.com/java/default.asp
 [web7]: https://www.w3schools.com/python/default.asp
-[web8]: https://www.djangoproject.com/
+[web8]: https://docs.djangoproject.com/en/3.2/
 
 
 ---
