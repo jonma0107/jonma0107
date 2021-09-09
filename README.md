@@ -71,6 +71,6 @@ Here are some ideas to get you started:
 <br>
 <!-- SPOTIFY -->
 <div align="center">
-[![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/Johnny Silverhand 1981)
+[![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/8pjqu5zyoei65wp24bduzhavt)
 </div>
 ---
