@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<!--[![gigi.gif](https://s9.gifyu.com/images/gigi.gif)](https://gifyu.com/image/Jlef)-->
-[![gigi25e547bf73b737dd.gif](https://s9.gifyu.com/images/gigi25e547bf73b737dd.gif)](https://gifyu.com/image/Jnb0)
+[![gigi272f83c486ded621.gif](https://s9.gifyu.com/images/gigi272f83c486ded621.gif)](https://gifyu.com/image/JnbO)
  
 </div>  
 
