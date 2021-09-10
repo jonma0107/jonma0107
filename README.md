@@ -3,7 +3,7 @@
 <div align="center">
 
 <!--[![gigi.gif](https://s9.gifyu.com/images/gigi.gif)](https://gifyu.com/image/Jlef)-->
-[![gigi25e547bf73b737dd.th.gif](https://s9.gifyu.com/images/gigi25e547bf73b737dd.th.gif)](https://gifyu.com/image/Jnb0)
+[![gigi25e547bf73b737dd.gif](https://s9.gifyu.com/images/gigi25e547bf73b737dd.gif)](https://gifyu.com/image/Jnb0)
  
 </div>  
 
