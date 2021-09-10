@@ -16,11 +16,9 @@
 
 
 ---
-
+<div align="center">
 ### 🚀 Coding
 
-<div align="center">
-  
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][web1]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][web2]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][web3]
@@ -71,13 +69,13 @@ Here are some ideas to get you started:
 -->
 
 <br>
-<div align="leftr">
+<div align="left">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonathanmezatw?color=%231DA1F2&label=%40jonathanmezatw&logo=twitter&style=for-the-badge)](https://twitter.com/jonathanmezatw)
 
 </div> 
 <!-- SPOTIFY -->
-<div align="leftr">
+<div align="left">
 
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
