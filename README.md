@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 
 ---
 
+<br>
+
 <div align="center">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonathanmezatw?color=%231DA1F2&label=%40jonathanmezatw&logo=twitter&style=for-the-badge)](https://twitter.com/jonathanmezatw)
