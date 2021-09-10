@@ -67,11 +67,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="right">
-  
-[![Twitter Follow](https://img.shields.io/twitter/follow/jonathanmezatw?color=%231DA1F2&label=%40jonathanmezatw&logo=twitter&style=for-the-badge)](https://twitter.com/jonathanmezatw)
-
-</div> 
 <!-- SPOTIFY -->
 <div align="right">
  
@@ -80,6 +75,12 @@ Here are some ideas to get you started:
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
 </div>
+
+<div align="right">
+  
+[![Twitter Follow](https://img.shields.io/twitter/follow/jonathanmezatw?color=%231DA1F2&label=%40jonathanmezatw&logo=twitter&style=for-the-badge)](https://twitter.com/jonathanmezatw)
+
+</div> 
 
 ---
 
