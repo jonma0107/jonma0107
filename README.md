@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 ### 🎧 Spotify Playing
  
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
-
 </div>
+
 ---
 
 <br>
