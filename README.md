@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Mauricio Meza Bastidas</h1>
+
+[![gigi.gif](https://s9.gifyu.com/images/gigi.gif)](https://gifyu.com/image/Jlef)
+
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
 - 🌱 I’m currently learning **in the program of the government of Colombia called Mission TIC 2022**
