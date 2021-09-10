@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-  ![Twitter Follow](https://img.shields.io/twitter/follow/jonathanmezatw?color=%231DA1F2&label=Jonathan%20Meza&logo=twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jonathanmezatw?color=%231DA1F2&label=Jonathan%20Meza&logo=twitter&style=for-the-badge)](https://twitter.com/jonathanmezatw)
 
 </div>   
 
