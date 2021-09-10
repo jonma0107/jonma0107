@@ -15,7 +15,6 @@
 [web8]: https://docs.djangoproject.com/en/3.2/
 
 ---
-<br>
 
 ### 🚀 Coding
 
