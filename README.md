@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jonathan Mauricio Meza Bastidas</h1>
 
+<div align="center">
+
 [![gigi.gif](https://s9.gifyu.com/images/gigi.gif)](https://gifyu.com/image/Jlef)
+ 
+</div>  
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
