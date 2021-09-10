@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
 <div align="right">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonathanmezatw?color=%231DA1F2&label=%40jonathanmezatw&logo=twitter&style=for-the-badge)](https://twitter.com/jonathanmezatw)
