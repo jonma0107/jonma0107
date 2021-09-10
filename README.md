@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![gigi272f83c486ded621.gif](https://s9.gifyu.com/images/gigi272f83c486ded621.gif)](https://gifyu.com/image/JnbO)
+<!--[![gigi272f83c486ded621.gif](https://s9.gifyu.com/images/gigi272f83c486ded621.gif)](https://gifyu.com/image/JnbO)-->
+[<img src="https://s9.gifyu.com/images/gigi272f83c486ded621.gif">][website] 
  
 </div>  
 
@@ -20,6 +21,7 @@
 [web6]: https://www.w3schools.com/java/default.asp
 [web7]: https://www.w3schools.com/python/default.asp
 [web8]: https://docs.djangoproject.com/en/3.2/
+[website]: http://www.jonathanmeza.com/
 
 ---
 
