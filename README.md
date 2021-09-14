@@ -54,8 +54,8 @@
 <p align="left">
   
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact">-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107">-->
 
 </p>
 
