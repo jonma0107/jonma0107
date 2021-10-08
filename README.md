@@ -1,7 +1,11 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jonathan Mauricio Meza Bastidas</h1>
+<div align="center">
+
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jonathan Mauricio Meza Bastidas</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Mauricio%20Meza%20Bastidas-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jonma0107/)](https://www.linkedin.com/in/jonma0107/)
 
+</div>
+ 
 <div align="center">
 
 <!--[![gigi272f83c486ded621.gif](https://s9.gifyu.com/images/gigi272f83c486ded621.gif)](http://www.jonathanmeza.com/)-->
