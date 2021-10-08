@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **in the program of the government of Colombia called Mission TIC 2022**
 
-- 📫 How to reach me **mbjonathan@misena.edu.co** or **contacto@jonathanmeza.co**
+- 📫 How to reach me **contacto@jonathanmeza.co**
 
 [web1]: https://www.w3schools.com/html/default.asp
 [web2]: https://www.w3schools.com/css/default.asp
