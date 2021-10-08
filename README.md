@@ -56,7 +56,7 @@
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107">-->
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact">-->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=tokyonight)
 
 <!--</p>-->
 
