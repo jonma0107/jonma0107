@@ -14,15 +14,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+   
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: jonma0107
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: https://github.com/jonma0107/jonma0107/blob/output/github-contribution-grid-snake.svg
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
