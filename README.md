@@ -124,3 +124,5 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=jonma0107.jonma0107)
 
 </div>  
+
+![snake gif](https://github.com/jonma0107/jonma0107/blob/output/github-contribution-grid-snake.gif)
