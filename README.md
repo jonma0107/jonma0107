@@ -100,8 +100,10 @@ Here are some ideas to get you started:
  
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
  
-<div align="center"> 
+<div align="center">
+ 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jonma0107/jonma0107/output/github-contribution-grid-snake.svg) 
+
 </div> 
 
 </div>
