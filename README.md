@@ -99,6 +99,8 @@ Here are some ideas to get you started:
  
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
  
+![github contribution grid snake animation](https://raw.githubusercontent.com/jonma0107/jonma0107/output/github-contribution-grid-snake.svg) 
+ 
 </div>
 
 ---
@@ -113,9 +115,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-![](https://visitor-badge.glitch.me/badge?page_id=jonma0107.jonma0107)
- 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jonma0107/jonma0107/output/github-contribution-grid-snake.svg) 
+![](https://visitor-badge.glitch.me/badge?page_id=jonma0107.jonma0107) 
 
 </div>  
 
