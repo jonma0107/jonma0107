@@ -125,4 +125,4 @@ Here are some ideas to get you started:
 
 </div>  
 
-![snake gif](https://github.com/jonma0107/jonma0107/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jonma0107/jonma0107/output/github-contribution-grid-snake.gif)
