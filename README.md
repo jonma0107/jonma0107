@@ -107,6 +107,12 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
+ 
+![github contribution grid snake animation](https://raw.githubusercontent.com/jonma0107/jonma0107/output/github-contribution-grid-snake.svg) 
+
+</div>
+
+<div align="center">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonathanmezatw?color=%231DA1F2&label=%40jonathanmezatw&logo=twitter&style=for-the-badge)](https://twitter.com/jonathanmezatw)
 
@@ -115,12 +121,6 @@ Here are some ideas to get you started:
 <div align="center">
  
 ![](https://visitor-badge.glitch.me/badge?page_id=jonma0107.jonma0107) 
-
-</div>
-
-<div align="center">
- 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jonma0107/jonma0107/output/github-contribution-grid-snake.svg) 
 
 </div>
 
