@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-- 🌱 Currently i've finished proudly **the program of formation called Mission TIC 2022 started by government of Colombia for learning of skills in software programming such       as web development with HTML, CSS, JAVASCRIPT and frameworks like VUE, DJANGO REST; paradigms of software programming with JAVA (SE) and PYTHON; databases with MySQL         and POSTGRESQL; agile methodologies for working with SCRUM and with a deepening in development of mobile applications with KOTLIN.**
+- 🌱 Currently i've finished proudly **the program of formation called Mission TIC 2022 started by government of Colombia for learning of skills in software programming             such as web development with HTML, CSS, JAVASCRIPT and Frameworks such as Vue and Django Rest. Also paradigms of software programming with JAVA (SE) and PYTHON,               databases with MySQL and POSTGRESQL, agile methodologies for working with SCRUM. And a deepening in development of mobile applications with KOTLIN.**
 
 - 📫 How to reach me **contacto@jonathanmeza.co**
 
@@ -100,12 +100,6 @@ Here are some ideas to get you started:
  
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
  
-<div align="center">
- 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jonma0107/jonma0107/output/github-contribution-grid-snake.svg) 
-
-</div>
- 
 </div> 
 
 ---
@@ -122,7 +116,13 @@ Here are some ideas to get you started:
  
 ![](https://visitor-badge.glitch.me/badge?page_id=jonma0107.jonma0107) 
 
-</div>  
+</div>
+
+<div align="center">
+ 
+![github contribution grid snake animation](https://raw.githubusercontent.com/jonma0107/jonma0107/output/github-contribution-grid-snake.svg) 
+
+</div>
 
 
 
