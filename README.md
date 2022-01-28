@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **contacto@jonathanmeza.co**
 
-[web1]: https://www.w3schools.com/html/default.asp
+[web1]: https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/
 [web2]: https://www.w3schools.com/css/default.asp
 [web3]: https://www.w3schools.com/js/default.asp
 [web4]: https://www.w3schools.com/sql/default.asp
