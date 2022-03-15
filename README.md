@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-- 🌱 Currently i've finished proudly **the program of formation called Mission TIC 2022 started by government of Colombia for learning of skills in software programming             such as web development with HTML, CSS, JAVASCRIPT and Frameworks such as Vue and Django Rest. Also paradigms of software programming with JAVA (SE) and PYTHON,               databases with MySQL and POSTGRESQL, agile methodologies for working with SCRUM. And a deepening in development of mobile applications with KOTLIN. Diploma:                   https://media.interacpedia.com/profile/projects/88181/certificadocursoalumno.pdf**
+- 🌱 Currently i've finished proudly **the program of formation called Mission TIC 2022 started by government of Colombia for learning of skills in software programming             such as web development with HTML, CSS, JAVASCRIPT and Frameworks such as Vue and Django Rest. Also paradigms of software programming with JAVA (SE) and PYTHON,               databases with MySQL and POSTGRESQL, agile methodologies for working with SCRUM. And a deepening in development of mobile applications with KOTLIN. Diploma:                   https://adobe.ly/3IdgcqX**
 
 - 📫 How to reach me **contacto@jonathanmeza.co**
 
