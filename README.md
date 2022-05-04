@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
- 🌱 Currently i've finished proudly the program of formation called Mission TIC 2022 started by government of Colombia for learning of skills in software programming             such as web development with HTML, CSS, JAVASCRIPT and Frameworks such as Vue and Django Rest. Also paradigms of software programming with JAVA (SE) and PYTHON,               databases with MySQL and POSTGRESQL, agile methodologies for working with SCRUM. And a deepening in development of mobile applications with KOTLIN. Diploma:                   <img  src="https://adobe.ly/3IdgcqX"><a>https://adobe.ly/3IdgcqX</a></img>
+ 🌱 Currently i've finished proudly the program of formation called Mission TIC 2022 started by government of Colombia for learning of skills in software programming             such as web development with HTML, CSS, JAVASCRIPT and Frameworks such as Vue and Django Rest. Also paradigms of software programming with JAVA (SE) and PYTHON,               databases with MySQL and POSTGRESQL, agile methodologies for working with SCRUM. And a deepening in development of mobile applications with KOTLIN. Diploma:                   <p  src="https://adobe.ly/3IdgcqX"> <a>https://adobe.ly/3IdgcqX</a> </p>
 
 - 📫 How to reach me **contacto@jonathanmeza.co**
 
@@ -55,7 +55,7 @@
   <!--![Most Used Languages](https://raw.githubusercontent.com/jonma0107/github-stats-transparent/output/generated/languages.svg)-->
 
 <!--</p>🚀-->
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65">  Coding ... 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65">                      Coding ... 
 <code>[<img alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][web11]</code>
 <code>[<img alt="HTML" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web1]</code>
 <code>[<img alt="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][web2]</code>
