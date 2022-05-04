@@ -52,7 +52,7 @@
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107">-->
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact">-->
-  ![Most Used Languages](https://raw.githubusercontent.com/jonma0107/github-stats-transparent/output/generated/languages.svg)
+  <!--![Most Used Languages](https://raw.githubusercontent.com/jonma0107/github-stats-transparent/output/generated/languages.svg)-->
 
 <!--</p>-->
 
