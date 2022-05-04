@@ -55,6 +55,7 @@
   <!--![Most Used Languages](https://raw.githubusercontent.com/jonma0107/github-stats-transparent/output/generated/languages.svg)-->
 
 <!--</p>-->
+## 🚀 Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
 
 <code>[<img alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][web11]</code>
 <code>[<img alt="HTML" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web1]</code>
@@ -90,7 +91,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## 🚀 Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">   
+  
 
 <!--<br>-->
 <!-- SPOTIFY -->
