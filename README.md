@@ -31,7 +31,7 @@
 [web9]: https://www.w3schools.com/git/default.asp
 [web10]: https://vuejs.org/
 [web11]: https://www.w3schools.com/git/
-[web12]: https://www.w3schools.com/nodejs/
+[web12]: https://nodejs.org/es/docs/
 [web13]: https://www.w3schools.com/kotlin/index.php
 [web14]: https://developer.android.com/docs?hl=es-419
 [web15]: https://es.reactjs.org/docs/getting-started.html
@@ -64,7 +64,7 @@
 <code>[<img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][web3]</code>
 <code>[<img alt="MySQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][web5]</code>
 <code>[<img alt="Java" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">][web6]</code>
-<code>[<img alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][web12]</code>
+<code>[<img alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png">][web12]</code>
 <code>[<img alt="React" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][web15]</code>
 <code>[<img alt="Python" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][web7]</code>
 <code>[<img alt="Django" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">][web8]</code>
