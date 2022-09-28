@@ -102,7 +102,10 @@ Here are some ideas to get you started:
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
 </div> 
- 
+
+<div align='right'>
+[![@jonma0107's Holopin board](https://holopin.io/api/user/board?user=jonma0107)](https://holopin.io/@jonma0107)
+</div>  
 
 ---
 
