@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 <!--<br>-->
 <!-- SPOTIFY -->
-<div align='left'>
+<div align='right'>
  
 ### 🎧 Spotify Playing
  
