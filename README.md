@@ -104,7 +104,9 @@ Here are some ideas to get you started:
 </div> 
 
 <div align='right'>
+ 
 [![@jonma0107's Holopin board](https://holopin.io/api/user/board?user=jonma0107)](https://holopin.io/@jonma0107)
+ 
 </div>  
 
 ---
