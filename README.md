@@ -22,7 +22,7 @@ Having a Full-Stack approach, I have developed projects from the Back-End side t
 From the Front-End side, I have developed projects with frameworks such as CSS Tailwind and the React JavaScript library, with a previous design of the user interface (UI) with the Figma tool.
 
 <div align="center">
-https://curriculum-vitae-jm.netlify.app/
+https://www.jonathanmeza.com.co
 </div>
 
 <br>
