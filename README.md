@@ -23,7 +23,9 @@ From the Front-End side, I have developed projects with frameworks such as CSS T
 
 <div align="center">
 https://curriculum-vitae-jm.netlify.app/
-</div> 
+</div>
+
+<br>
 
  📫 How to reach me: **mbjonathan@misena.edu.co**
 
@@ -106,7 +108,7 @@ Here are some ideas to get you started:
 <!-- SPOTIFY -->
 <div align='right'>
  
-### 🎧 Spotify Playing...
+### 🎧 Spotify Playing ...
  
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
