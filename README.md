@@ -16,12 +16,11 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
- 🌱 Programador de Software, Desarrollador Web y Móvil desde el año 2018; con amplios conocimientos en JavaScript, CSS, PHP, JAVA y SQL. Capacitado con los fundamentos de la metodología ágil de trabajo SCRUM, implementando la herramienta de administración de tareas con JIRA y el controlador de versiones de
-aplicaciones GIT.
+ 🌱 Programador de Software, Desarrollador Web y Móvil desde el año 2018 con amplios conocimientos en JavaScript, Python, CSS, PHP, JAVA y SQL. Capacitado con los fundamentos de la metodología ágil de trabajo SCRUM, implementando la herramienta de administración de tareas con JIRA y el controlador de versiones de aplicaciones GIT.
 
-Teniendo un enfoque Full-Stack he desarrollado proyectos desde el lado del Back-End mediante el entorno de ejecución Node.js y frameworks como Django y Express, logrando conectar a Bases de Datos modeladas mediante los administradores MySQL Workbech, TablePlus y PHPMyAdmin.
+Teniendo un enfoque Full-Stack he desarrollado proyectos desde el lado del Back-End mediante el entorno de ejecución Node.js y frameworks como Django y Express, logrando conectar a Bases de Datos modeladas mediante los administradores MySQL Workbech, TablePlus y phpMyAdmin.
 
-Desde el lado del Front-End he desarrollado proyectos con frameworks como Tailwind de CSS y la librería React de JavaScript, con un previo diseño de la interfaz de usuario (UI) con la herramienta Figma. **https://adobe.ly/3IdgcqX**
+Desde el lado del Front-End he desarrollado proyectos con frameworks como Tailwind de CSS y la librería React de JavaScript, con un previo diseño de la interfaz de usuario (UI) con la herramienta Figma. **https://curriculum-vitae-jm.netlify.app/**
 
  📫 How to reach me: **contacto@jonathanmeza.co**
 
