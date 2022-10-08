@@ -16,13 +16,15 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
- 🌱 Programador de Software, Desarrollador Web y Móvil desde el año 2018 con amplios conocimientos en JavaScript, Python, CSS, PHP, JAVA y SQL. Capacitado con los fundamentos de la metodología ágil de trabajo SCRUM, implementando la herramienta de administración de tareas con JIRA y el controlador de versiones de aplicaciones GIT.
+ 🌱 Software Programmer, Web and Mobile Developer since 2018 with extensive knowledge in JavaScript, Python, CSS, PHP, JAVA and SQL. Trained with the fundamentals of the agile SCRUM work methodology, implementing the task management tool with JIRA and the GIT application version controller.
 
-Teniendo un enfoque Full-Stack he desarrollado proyectos desde el lado del Back-End mediante el entorno de ejecución Node.js y frameworks como Django y Express, logrando conectar a Bases de Datos modeladas mediante los administradores MySQL Workbech, TablePlus y phpMyAdmin.
+Having a Full-Stack approach, I have developed projects from the Back-End side through the Node.js execution environment and frameworks such as Django and Express, managing to connect to Modeled Databases through the MySQL Workbech, TablePlus and phpMyAdmin administrators.
 
-Desde el lado del Front-End he desarrollado proyectos con frameworks como Tailwind de CSS y la librería React de JavaScript, con un previo diseño de la interfaz de usuario (UI) con la herramienta Figma. **https://curriculum-vitae-jm.netlify.app/**
+From the Front-End side, I have developed projects with frameworks such as CSS Tailwind and the React JavaScript library, with a previous design of the user interface (UI) with the Figma tool.
 
- 📫 How to reach me: **contacto@jonathanmeza.co**
+**https://curriculum-vitae-jm.netlify.app/**
+
+ 📫 How to reach me: **mbjonathan@misena.edu.co**
 
 [web1]: https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/
 [web2]: https://www.w3schools.com/css/default.asp
@@ -39,6 +41,7 @@ Desde el lado del Front-End he desarrollado proyectos con frameworks como Tailwi
 [web13]: https://www.w3schools.com/kotlin/index.php
 [web14]: https://developer.android.com/docs?hl=es-419
 [web15]: https://es.reactjs.org/docs/getting-started.html
+[web16]: https://www.php.net/docs.php
 [website]: http://jonathanmeza.co/
 
 ---
@@ -67,6 +70,7 @@ Desde el lado del Front-End he desarrollado proyectos con frameworks como Tailwi
 <code>[<img alt="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][web2]</code>
 <code>[<img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][web3]</code>
 <code>[<img alt="MySQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][web5]</code>
+<code>[<img alt="PHP" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">][web16]</code>
 <code>[<img alt="Java" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">][web6]</code>
 <code>[<img alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][web12]</code>
 <code>[<img alt="React" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][web15]</code>
