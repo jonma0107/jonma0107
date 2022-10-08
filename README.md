@@ -7,12 +7,11 @@
 
 </div>
  
-<div align="center">
+<!--<div align="center">
 
-[![gigi272f83c486ded621.gif](https://s9.gifyu.com/images/gigi272f83c486ded621.gif)](http://www.jonathanmeza.com/)
-<!--[<img src="https://s9.gifyu.com/images/gigi272f83c486ded621.gif">][website]--> 
+[<img src="https://s9.gifyu.com/images/gigi272f83c486ded621.gif">][website]
  
-</div>  
+</div>-->   
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
@@ -42,7 +41,7 @@ From the Front-End side, I have developed projects with frameworks such as CSS T
 [web14]: https://developer.android.com/docs?hl=es-419
 [web15]: https://es.reactjs.org/docs/getting-started.html
 [web16]: https://www.php.net/docs.php
-[website]: http://jonathanmeza.co/
+[website]: https://jonathanmeza.com.co/
 
 ---
 
@@ -109,13 +108,13 @@ Here are some ideas to get you started:
  
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
-</div> 
+<!--</div> 
 
 <div align='right'>
  
 [![@jonma0107's Holopin board](https://holopin.io/api/user/board?user=jonma0107)](https://holopin.io/@jonma0107)
  
-</div>  
+</div>-->  
 
 ---
 
