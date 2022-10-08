@@ -16,7 +16,16 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
- 🌱 Currently i've finished proudly the program of formation called Mission TIC 2022 started by government of Colombia for learning of skills in software programming             such as web development with HTML, CSS, JAVASCRIPT and Frameworks such as Vue and Django Rest. Also paradigms of software programming with JAVA (SE) and PYTHON,               databases with MySQL and POSTGRESQL, agile methodologies for working with SCRUM. And a deepening in development of mobile applications with KOTLIN. Diploma: **https://adobe.ly/3IdgcqX**
+ 🌱 Programador de Software,
+Desarrollador Web y Móvil desde el
+año 2018; con amplios conocimientos
+en JavaScript, Python, Golang, JAVA
+y SQL. Capacitado en los fundamentos
+de la metodología ágil de trabajo
+SCRUM, implementando la herramienta
+de administración de tareas con JIRA
+y el controlador de versiones de
+aplicaciones GIT **https://adobe.ly/3IdgcqX**
 
  📫 How to reach me: **contacto@jonathanmeza.co**
 
