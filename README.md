@@ -9,8 +9,8 @@
  
 <div align="center">
 
-<!--[![gigi272f83c486ded621.gif](https://s9.gifyu.com/images/gigi272f83c486ded621.gif)](http://www.jonathanmeza.com/)-->
-[<img src="https://s9.gifyu.com/images/gigi272f83c486ded621.gif">][website] 
+[![gigi272f83c486ded621.gif](https://s9.gifyu.com/images/gigi272f83c486ded621.gif)](http://www.jonathanmeza.com/)
+<!--[<img src="https://s9.gifyu.com/images/gigi272f83c486ded621.gif">][website]--> 
  
 </div>  
 
