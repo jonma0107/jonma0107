@@ -21,7 +21,9 @@ Having a Full-Stack approach, I have developed projects from the Back-End side t
 
 From the Front-End side, I have developed projects with frameworks such as CSS Tailwind and the React JavaScript library, with a previous design of the user interface (UI) with the Figma tool.
 
+<div align="center">
 **https://curriculum-vitae-jm.netlify.app/**
+</div> 
 
  📫 How to reach me: **mbjonathan@misena.edu.co**
 
@@ -104,7 +106,7 @@ Here are some ideas to get you started:
 <!-- SPOTIFY -->
 <div align='right'>
  
-### 🎧 Spotify Playing
+### 🎧 Spotify Playing...
  
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
