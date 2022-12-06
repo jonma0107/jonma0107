@@ -110,7 +110,7 @@ Here are some ideas to get you started:
  
 ### 🎧 Spotify Playing ...
 
-[![Spotify](https://novatorem-3ahtz5q9u-jonma0107.vercel.app/api/spotify)](https://open.spotify.com/user/jonma0107) 
+[![Spotify](https://novatorem-3ahtz5q9u-jonma0107.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn) 
 <!--[![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)-->
 
 
