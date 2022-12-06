@@ -113,15 +113,17 @@ Here are some ideas to get you started:
 [![Spotify](https://novatorem-3ahtz5q9u-jonma0107.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn) 
 <!--[![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)-->
 
-<!--</div> 
+</div>
 
-<div align='right'>
+---
+
+<!--<div align='right'>
  
 [![@jonma0107's Holopin board](https://holopin.io/api/user/board?user=jonma0107)](https://holopin.io/@jonma0107)
  
 </div>-->  
 
----
+
 
 <div align="center">
  
