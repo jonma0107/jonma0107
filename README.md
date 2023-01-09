@@ -124,12 +124,11 @@ Here are some ideas to get you started:
 </div>-->  
 
 
-
-<div align="center">
+<!-- <div align="center">
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jonma0107/jonma0107/output/github-contribution-grid-snake.svg) 
 
-</div>
+</div>-->
 
 ---
 
