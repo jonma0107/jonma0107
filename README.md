@@ -138,7 +138,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/jonma0107?color=%231DA1F2&label=%40jonma0107&logo=twitter&style=for-the-badge)](https://twitter.com/jonma0107)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/jonma0107?color=%231DA1F2&label=%40jonma0107&logo=twitter&style=for-the-badge)](https://twitter.com/jonma0107) -->
+![Twitter Follow](https://img.shields.io/twitter/follow/jonma0107?style=social)](https://twitter.com/jonma0107)
 
 </div> 
 
