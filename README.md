@@ -19,7 +19,7 @@
 
 Having a Full-Stack approach, I have developed projects from the Back-End side through the Node.js execution environment and frameworks such as Django and Express, managing to connect to Modeled Databases through the MySQL Workbech, TablePlus and phpMyAdmin administrators.
 
-From the Front-End side, I have developed projects with frameworks such as CSS Tailwind and the React JavaScript library, with a previous design of the user interface (UI) with the Figma tool.
+From the Front-End side, I have developed projects with frameworks such as CSS Tailwind and the React library of JavaScript, with a previous design of the user interface (UI) with the Figma tool.
 
 <div align="center">
 https://www.jonathanmeza.com.co
