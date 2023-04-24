@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
- 🌱 Software Developer, Web and Mobile Developer since 2018 with extensive knowledge in JavaScript, Python, CSS, PHP, JAVA and SQL. Trained with the fundamentals of the agile SCRUM work methodology, implementing the task management tool with JIRA and the GIT application version controller.
+ 🌱 Software Developer, Web and Mobile Developer since 2018 with extensive knowledge in JavaScript, Python, CSS, PHP, JAVA and SQL. Trained with the fundamentals of the agile SCRUM work methodology, implementing the task management tool with TRELLO and the applicationS GIT and Bitbucket for version controller.
 
 Having a Full-Stack approach, I have developed projects from the Back-End side through the Node.js execution environment and frameworks such as Django and Express, managing to connect to Modeled Databases through the MySQL Workbech, TablePlus and phpMyAdmin administrators.
 
@@ -68,7 +68,7 @@ https://www.jonathanmeza.com.co
 <!--</p>🚀-->
 <!--### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75"> Coding ...-->
 ### 🚀 Coding ...
-<code>[<img alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][web11]</code>
+<!-- <code>[<img alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][web11]</code>
 <code>[<img alt="HTML" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web1]</code>
 <code>[<img alt="CSS" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][web2]</code>
 <code>[<img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][web3]</code>
@@ -80,8 +80,52 @@ https://www.jonathanmeza.com.co
 <code>[<img alt="Python" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][web7]</code>
 <code>[<img alt="Django" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">][web8]</code>
 <code>[<img alt="Android" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">][web14]</code>
-<code>[<img alt="Kotlin" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">][web13]</code>
+<code>[<img alt="Kotlin" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">][web13]</code> -->
 
+<p>
+<!-- KOTLIN -->
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<!-- ANDROID -->
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/> </a> 
+<!-- JAVA -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
+<!-- FIGMA -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<!-- JS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<!-- HTML -->
+<img alt="HTML" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<!-- CSS -->
+<img alt="CSS" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
+<!-- BOOTSTRAP -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<!-- ANGULAR -->
+<!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/> </a> -->
+<!-- REACT -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<!-- DOCKER -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
+<!-- PYTHON -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+<!-- DJANGO -->
+<img alt="Django" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> 
+<!-- POSTMAN -->
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+<!-- GIT -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+<!-- FLUTTER -->
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<!-- TENSORFLOW -->
+<!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> -->
+<!-- AWS -->
+<!-- <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>  -->
+<!-- REDUX -->
+<!-- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  -->
+<!-- TAILWIND -->
+<!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  -->
+</p>
 <!--<br>-->
  
 ---
@@ -138,8 +182,6 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/neuromante0107?style=social">
-  
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/neuromante0107?color=%231DA1F2&label=%40neuromante0107&logo=twitter&style=for-the-badge)](https://twitter.com/neuromante0107) -->
 <!-- ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fneuromante0107%2F)  -->
  
