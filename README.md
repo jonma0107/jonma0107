@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
- 🌱 Software Programmer, Web and Mobile Developer since 2018 with extensive knowledge in JavaScript, Python, CSS, PHP, JAVA and SQL. Trained with the fundamentals of the agile SCRUM work methodology, implementing the task management tool with JIRA and the GIT application version controller.
+ 🌱 Software Developer, Web and Mobile Developer since 2018 with extensive knowledge in JavaScript, Python, CSS, PHP, JAVA and SQL. Trained with the fundamentals of the agile SCRUM work methodology, implementing the task management tool with JIRA and the GIT application version controller.
 
 Having a Full-Stack approach, I have developed projects from the Back-End side through the Node.js execution environment and frameworks such as Django and Express, managing to connect to Modeled Databases through the MySQL Workbech, TablePlus and phpMyAdmin administrators.
 
@@ -137,8 +137,10 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
+ 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/neuromante0107?style=social">
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/neuromante0107?color=%231DA1F2&label=%40neuromante0107&logo=twitter&style=for-the-badge)](https://twitter.com/neuromante0107)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/neuromante0107?color=%231DA1F2&label=%40neuromante0107&logo=twitter&style=for-the-badge)](https://twitter.com/neuromante0107) -->
 <!-- ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fneuromante0107%2F)  -->
  
  <a href="https://twitter.com/neuromante0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
