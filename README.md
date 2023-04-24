@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
- 🌱 Software Developer, Web and Mobile Developer since 2018 with extensive knowledge in JavaScript, Python, CSS, PHP, JAVA and SQL. Trained with the fundamentals of the agile SCRUM work methodology, implementing the task management tool with TRELLO and the applications GIT and Bitbucket for version controller.
+ 🌱 Web and Mobile Developer since 2018 year ago, with extensive knowledge in JavaScript, Python, PHP, JAVA and SQL. Trained with the fundamentals of the agile SCRUM work methodology, implementing the task management tool with TRELLO and the applications GIT and Bitbucket for version control.
 
 Having a Full-Stack approach, I have developed projects from the Back-End side through the Node.js execution environment and frameworks such as Django and Express, managing to connect to Modeled Databases through the MySQL Workbech, TablePlus and phpMyAdmin administrators.
 
