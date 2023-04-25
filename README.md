@@ -27,7 +27,7 @@ https://www.jonathanmeza.com.co
 
 <br>
 
- 📫 How to reach me: **mbjonathan@misena.edu.co**
+ 📫 How to reach me: **contacto@jonathanmeza.com.co**
 
 [web1]: https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/
 [web2]: https://www.w3schools.com/css/default.asp
