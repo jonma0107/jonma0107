@@ -151,9 +151,9 @@ Here are some ideas to get you started:
 
 <!--<br>-->
 <!-- SPOTIFY -->
-<div align='center'>
+<div align='right'>
  
-### <pre>             🎧 Spotify Playing ...</pre>
+### 🎧 Spotify Playing ...
 
 </div>  
 <div align='right'>
