@@ -21,7 +21,13 @@ https://www.jonathanmeza.com.co
 
 <br>
 
+---
+
+<div align='right'>
+ 
  📫 How to reach me: **contacto@jonathanmeza.com.co**
+
+</div> 
 
 [web1]: https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/
 [web2]: https://www.w3schools.com/css/default.asp
