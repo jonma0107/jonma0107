@@ -23,9 +23,9 @@ https://www.jonathanmeza.com.co
  
  📫 How to reach me: **contacto@jonathanmeza.com.co** 
  
- <!--<br>
+ <!--<br>-->
  
- [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Mauricio%20Meza%20Bastidas-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jonma0107/)](https://www.linkedin.com/in/jonma0107/)-->
+ <!--[![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Mauricio%20Meza%20Bastidas-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jonma0107/)](https://www.linkedin.com/in/jonma0107/)-->
 
 </div> 
 
