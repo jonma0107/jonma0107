@@ -205,7 +205,7 @@ Here are some ideas to get you started:
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/neuromante0107?color=%231DA1F2&label=%40neuromante0107&logo=twitter&style=for-the-badge)](https://twitter.com/neuromante0107) -->
 <!-- ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fneuromante0107%2F)  -->
  
- <a href="https://twitter.com/jonma0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+ <a href="https://x.com/lupianima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 
 </div> 
 
