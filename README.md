@@ -8,13 +8,6 @@
 https://www.jonathanmeza.com.co
 </div> --> 
 
-<br>
-
-<div align='center'> 
- 📫 How to reach me: <a href="https://www.linkedin.com/in/jonma0107/" target="_blank" rel="noopener noreferrer"><img align="center" 
- src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jonma0107/" height="30" width="40" /></a> 
-</div> 
-
 [web1]: https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/
 [web2]: https://www.w3schools.com/css/default.asp
 [web3]: https://www.w3schools.com/js/default.asp
@@ -109,5 +102,12 @@ https://www.jonathanmeza.com.co
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->  
 </p>
 
-<!--<br>-->
+---
+
+<br>
+
+<div align='center'> 
+ 📫 How to reach me: <a href="https://www.linkedin.com/in/jonma0107/" target="_blank" rel="noopener noreferrer"><img align="center" 
+ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jonma0107/" height="30" width="40" /></a> 
+</div> 
 
