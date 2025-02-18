@@ -35,8 +35,10 @@ https://www.jonathanmeza.com.co
 
 ---
 
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> Coding ...
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> Coding ...
+</p>
+ 
 <p align="center"> 
 <!-- PYTHON -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
@@ -103,9 +105,8 @@ https://www.jonathanmeza.com.co
 <p align="center">
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact">-->
-  <!--[![Most Used Languages](https://raw.githubusercontent.com/jonma0107/github-stats-transparent/output/generated/languages.svg)]-->
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->  
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact">-->
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->  
 </p>
 
 <!--<br>-->
