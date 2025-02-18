@@ -2,7 +2,7 @@
 <h1 align="center">Hi!, I'm Jonathan Meza</h1>
 </div> --> 
 
-<h3 align="center">Hi!, I'm a passionate full stack developer from Colombia</h3>
+<h3 align="center">Hi! I'm a passionate full-stack developer based in Colombia.</h3>
  
 <!-- <div align="center">
 https://www.jonathanmeza.com.co
@@ -37,7 +37,7 @@ https://www.jonathanmeza.com.co
 
 
 <p> 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> Coding ...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> Coding ... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- PYTHON -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <!-- DJANGO -->
