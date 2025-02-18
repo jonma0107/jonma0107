@@ -35,9 +35,9 @@ https://www.jonathanmeza.com.co
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> Coding ...
 
-<p>
+<p> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> Coding ...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- PYTHON -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <!-- DJANGO -->
@@ -61,8 +61,7 @@ https://www.jonathanmeza.com.co
 <!-- REACT -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="43" height="43"/> </a> 
 <!-- Trello -->
-<a href="https://trello.com/es/tour" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original-wordmark.svg" alt="trello" width="70" height="70"/> </a>
- 
+<a href="https://trello.com/es/tour" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original-wordmark.svg" alt="trello" width="70" height="70"/> </a> 
 </p>
 
 
