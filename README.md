@@ -1,7 +1,3 @@
-<!-- <div align="center">
-<h1 align="center">Hi!, I'm Jonathan Meza</h1>
-</div> --> 
-
 <h3 align="center">Hi! I'm a passionate full-stack developer based in Colombia.</h3>
  
 <!-- <div align="center">
@@ -26,10 +22,8 @@ https://www.jonathanmeza.com.co
 
 ---
 
-<p align="center">
- 
+<p align="center"> 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-
 </p>
 
 <div align="center">
@@ -44,8 +38,8 @@ https://www.jonathanmeza.com.co
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)][web8] 
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)][web9] 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][web10] 
-[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/es/tour) 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) 
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)][web11] 
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][web12]
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)
 
 </div>
@@ -114,10 +108,8 @@ https://www.jonathanmeza.com.co
 
 ---
 
-<div align="center">
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true">
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact">-->
+<div align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"> 
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->  
 </div>
 
