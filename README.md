@@ -131,3 +131,10 @@ https://www.jonathanmeza.com.co
  </a>  
 </div> 
 
+<!-- 
+Los enlaces web que permiten la construcción de iconos en formato markdown:
+https://ileriayo.github.io/markdown-badges/
+https://simpleicons.org/
+https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges
+https://github.com/devicons/devicon/tree/master/icons
+-->
