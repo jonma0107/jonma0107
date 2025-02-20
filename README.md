@@ -124,7 +124,10 @@ https://www.jonathanmeza.com.co
 ---
 
 <div align="center"> 
- 📫 How to reach me: <a href="https://www.linkedin.com/in/jonma0107/" target="_blank"><img align="center" 
- src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jonma0107/" height="30" width="40" /></a> 
+ 📫 How to reach me: 
+ <a href="https://www.linkedin.com/in/jonma0107/" target="_blank">  
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" 
+   height="30" width="40" />LinkedIn  
+ </a>  
 </div> 
 
