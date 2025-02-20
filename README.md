@@ -8,22 +8,20 @@
 https://www.jonathanmeza.com.co
 </div> --> 
 
-[web1]: https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/
-[web2]: https://www.w3schools.com/css/default.asp
-[web3]: https://www.w3schools.com/js/default.asp
-[web4]: https://www.w3schools.com/sql/default.asp
-[web5]: https://www.w3schools.com/mysql/default.asp
-[web6]: https://www.w3schools.com/java/default.asp
-[web7]: https://www.w3schools.com/python/default.asp
-[web8]: https://docs.djangoproject.com/en/3.2/
-[web9]: https://www.w3schools.com/git/default.asp
-[web10]: https://vuejs.org/
-[web11]: https://www.w3schools.com/git/
-[web12]: https://nodejs.org/es/docs/
-[web13]: https://www.w3schools.com/kotlin/index.php
+[web1]: https://www.python.org
+[web2]: https://docs.djangoproject.com
+[web3]: https://www.django-rest-framework.org
+[web4]: https://docs.docker.com/build-cloud
+[web5]: https://www.postgresql.org/docs
+[web6]: https://www.postman.com
+[web7]: https://aws.amazon.com/es/education/awseducate
+[web8]: https://ubuntu.com/download
+[web9]: https://bitbucket.org
+[web10]: https://git-scm.com
+[web11]: https://trello.com/es/tour
+[web12]: https://es.reactjs.org/docs/getting-started.html
+[web13]: https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/
 [web14]: https://developer.android.com/docs?hl=es-419
-[web15]: https://es.reactjs.org/docs/getting-started.html
-[web16]: https://www.php.net/docs.php
 [website]: https://jonathanmeza.com.co/
 
 ---
@@ -36,7 +34,19 @@ https://www.jonathanmeza.com.co
 
 <div align="center">
  
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)][web1]
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)][web2]
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)][web3]
+[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)][web4] 
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)][web5] 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)][web6]
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)][web7] 
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)][web8] 
+[![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)][web9] 
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][web10] 
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/es/tour) 
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) 
+[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)
 
 </div>
  
