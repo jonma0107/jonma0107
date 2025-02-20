@@ -36,7 +36,7 @@ https://www.jonathanmeza.com.co
  
 <a href="https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/" target="_blank" rel="noopener noreferrer"> 
  
-[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)][web1]
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </a>
 
