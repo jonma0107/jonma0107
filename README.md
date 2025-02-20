@@ -34,11 +34,10 @@ https://www.jonathanmeza.com.co
 
 <div align="center">
  
-<a href="https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/" target="_blank" rel="noopener noreferrer"> 
- 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<a href="https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/" target="_blank">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </a>
+
 
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)][web2]
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)][web3]
