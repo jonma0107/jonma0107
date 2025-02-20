@@ -28,35 +28,44 @@ https://www.jonathanmeza.com.co
 
 ---
 
+<p align="center">
+ 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+</p>
+
 <div align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> Coding ...
+ 
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 </div>
  
-<p align="center"> 
+<!-- <p align="center"> 
 <!-- PYTHON -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <!-- DJANGO -->
-<a href="https://docs.djangoproject.com/es/4.2/" target="_blank" rel="noreferrer"> <img alt="Django" height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"> </a>
+<!-- <a href="https://docs.djangoproject.com/es/4.2/" target="_blank" rel="noreferrer"> <img alt="Django" height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"> </a>
 <!-- REST -->
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/djangorest/djangorest-original-wordmark.svg" alt="djangorestframework" width="55" height=auto/> </a> 
+<!-- <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/djangorest/djangorest-original-wordmark.svg" alt="djangorestframework" width="55" height=auto/> </a> 
 <!-- PostgreSQL -->
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="43" height="43"/> </a>
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="43" height="43"/> </a>
 <!-- DOCKER -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="43" height="43"/> </a>
+<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="43" height="43"/> </a>
 <!-- POSTMAN -->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <!-- AWS -->
-<a href="https://aws.amazon.com/es/education/awseducate/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/> </a> 
+<!-- <a href="https://aws.amazon.com/es/education/awseducate/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/> </a> 
 <!--  UBUNTU -->
-<a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="42" height="42"/> </a>
+<!-- <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="42" height="42"/> </a>
 <!-- BitBucket -->
-<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="47" height="47"/> </a>
+<!-- <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="45" height="45"/> </a>
 <!-- GIT -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="43" height="43"/> </a> 
-<!-- REACT -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="43" height="43"/> </a> 
+<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="43" height="43"/> </a>
 <!-- Trello -->
-<a href="https://trello.com/es/tour" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original-wordmark.svg" alt="trello" width="70" height="70"/> </a> 
+<!-- <a href="https://trello.com/es/tour" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello" width="38" height="38"/> </a> 
+<!-- REACT -->
+<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="43" height="43"/> </a> 
+ 
 </p>
 
 
@@ -95,12 +104,12 @@ https://www.jonathanmeza.com.co
 
 ---
 
-<p align="center">
+<div align="center">
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true">
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact">-->
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->  
-</p>
+</div>
 
 ---
 
