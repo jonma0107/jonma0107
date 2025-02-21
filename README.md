@@ -109,7 +109,7 @@ https://www.jonathanmeza.com.co
 ---
 
 <div align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&hide=astro,hack,hcl,glsl,powershell,scss,procfile,java,php,dockerfile,batchfile"> 
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->  
 </div>
 
