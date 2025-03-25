@@ -18,6 +18,7 @@ https://www.jonathanmeza.com.co
 [web12]: https://es.reactjs.org/docs/getting-started.html
 [web13]: https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/
 [web14]: https://developer.android.com/docs?hl=es-419
+[web15]: https://fastapi.tiangolo.com/es/deployment/docker/?h=docker#requisitos-del-paquete
 [website]: https://jonathanmeza.com.co/
 
 ---
@@ -41,6 +42,7 @@ https://www.jonathanmeza.com.co
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)][web11] 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][web12]
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)][web15] 
 
 </div>
  
