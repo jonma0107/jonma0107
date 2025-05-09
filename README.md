@@ -1,4 +1,4 @@
-<h3 align="center">Hi! I'm a passionate full-stack developer based in Colombia.</h3>
+<h3 align="center">Hi! I'm a passionate back-end developer based in Colombia.</h3>
  
 <!-- <div align="center">
 https://www.jonathanmeza.com.co
