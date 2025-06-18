@@ -19,6 +19,7 @@ https://www.jonathanmeza.com.co
 [web13]: https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/
 [web14]: https://developer.android.com/docs?hl=es-419
 [web15]: https://fastapi.tiangolo.com/es/deployment/docker/?h=docker#requisitos-del-paquete
+[web16]: https://streamlit.io/
 [website]: https://jonathanmeza.com.co/
 
 ---
@@ -41,6 +42,7 @@ https://www.jonathanmeza.com.co
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][web10] 
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)][web11] 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][web12]
+[![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)][web16]
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)][web15]
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)
 
