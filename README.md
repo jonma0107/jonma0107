@@ -45,7 +45,9 @@ https://www.jonathanmeza.com.co
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)][web16]
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)][web15]
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)
-![Langchain](https://img.shields.io/badge/Langchain-ffffff?logo=Langchain&style=for-the-badge&color=ffffff&logoColor=412991)
+![Langchain](https://img.shields.io/badge/LangChain-FFFFFF?logo=LangChain&style=for-the-badge&color=412991&logoColor=white)
+
+
 
 
 </div>
