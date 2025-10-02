@@ -37,7 +37,7 @@ I'm
 
 </div>
 
-<div align="left"> 
+<div align="center"> 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 </div>
 
