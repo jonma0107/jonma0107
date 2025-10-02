@@ -33,7 +33,6 @@ I'm
      ██ ██    ██ ██ ██  ██ ███████    ██    ███████ ███████ ██ ██  ██     ██ ████ ██ █████     ███   ███████ 
 ██   ██ ██    ██ ██  ██ ██ ██   ██    ██    ██   ██ ██   ██ ██  ██ ██     ██  ██  ██ ██       ███    ██   ██ 
  █████   ██████  ██   ████ ██   ██    ██    ██   ██ ██   ██ ██   ████     ██      ██ ███████ ███████ ██   ██ 
-                                                                                                             
 ```
 
 </div>
@@ -163,4 +162,5 @@ https://ileriayo.github.io/markdown-badges/
 https://simpleicons.org/
 https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges
 https://github.com/devicons/devicon/tree/master/icons
+https://patorjk.com/software/taag/#p=display&f=ANSI+Regular&t=Jonathan+Meza&x=none&v=4&h=4&w=80&we=false
 -->
