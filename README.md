@@ -72,9 +72,6 @@ I'm
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)
 ![Langchain](https://img.shields.io/badge/LangChain-FFFFFF?logo=LangChain&style=for-the-badge&color=412991&logoColor=white)
 
-
-
-
 </div>
  
 <!-- <p align="center"> 
@@ -104,7 +101,6 @@ I'm
 <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="43" height="43"/> </a> 
  
 </p>
-
 
 <!-- KOTLIN -->
 <!-- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> -->
