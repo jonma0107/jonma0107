@@ -1,4 +1,5 @@
-<h3 align="center">Hi! I'm a passionate back-end developer based in Colombia.</h3>
+## Hi there 👋
+
  
 <!-- <div align="center">
 https://www.jonathanmeza.com.co
@@ -22,11 +23,36 @@ https://www.jonathanmeza.com.co
 [web16]: https://streamlit.io/
 [website]: https://jonathanmeza.com.co/
 
----
+I'm
+
+<div align="center">
+ 
+```
+       __                  __  __                   __  ___                
+      / /___  ____  ____ _/ /_/ /_  ____ _____     /  |/  /__  ____  ____ _
+ __  / / __ \/ __ \/ __ `/ __/ __ \/ __ `/ __ \   / /|_/ / _ \/_  / / __ `/
+/ /_/ / /_/ / / / / /_/ / /_/ / / / /_/ / / / /  / /  / /  __/ / /_/ /_/ / 
+\____/\____/_/ /_/\__,_/\__/_/ /_/\__,_/_/ /_/  /_/  /_/\___/ /___/\__,_/  
+                                        
+```
+
+</div>
 
 <p align="center"> 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 </p>
+
+* 🇨🇴 I live in Bogotá, Colombia.  
+* 📁 I'm currently working at [TicSocial](https://www.ticsocial.com.co/) as a Backend Developer.  
+* 👨‍💻 I've been programming for 4+ years, primarily focusing on full-stack development.
+
+## I'm currently learning
+
+* 🎯 FastAPI framework for AI applications  
+* 🎯 AI Engineering (MLOps, pipelines, deployment)  
+* 🎯 RAG & Agentic techniques
+
+## Stack I work with:
 
 <div align="center">
  
