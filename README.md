@@ -23,7 +23,7 @@ https://www.jonathanmeza.com.co
 [web16]: https://streamlit.io/
 [website]: https://jonathanmeza.com.co/
 
-## I'm
+I'm
 
 <div align="center">
  
