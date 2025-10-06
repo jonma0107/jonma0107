@@ -37,9 +37,9 @@ I'm
 
 </div>
 
-<div align="center"> 
+<!-- <div align="center"> 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-</div>
+</div> -->
 
 * 🇨🇴 I live in Bogotá, Colombia.  
 * 📁 I'm currently working at [TicSocial](https://www.ticsocial.com.co/) as a Backend Developer.  
