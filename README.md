@@ -43,7 +43,7 @@ I'm
 
 * 🇨🇴 I live in Bogotá, Colombia.  
 * 📁 I'm currently working at [TicSocial](https://www.ticsocial.com.co/) as a Backend Developer.  
-* 👨‍💻 I've been programming for 4+ years, primarily focusing on full-stack development.
+* 👨‍💻 I've been programming for 4+ years.
 
 ## I'm currently learning
 
