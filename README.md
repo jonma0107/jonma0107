@@ -136,17 +136,26 @@ I'm
 <!-- TAILWIND -->
 <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  -->
 
----
+<!-- --- -->
 
-<div align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&hide=astro,hcl,glsl,powershell,scss,procfile,java,php,html,css,batchfile,shell"> 
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->  
-</div>
+<!--<div align="center"> 
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&hide=astro,hcl,glsl,powershell,scss,procfile,java,php,html,css,batchfile,shell">-->  
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonma0107&layout=compact&hide=javascript" width="350">-->   
+<!--</div>--> 
 
----
+<!-- --- -->
 
-<div align="center"> 
+<!-- <div align="center"> 
  📫 How to reach me: 
+ <a href="https://www.linkedin.com/in/jonma0107/" target="_blank">  
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" 
+   height="20" width="30" />LinkedIn  
+ </a>  
+</div> --> 
+
+## How to reach me: 
+
+<div align="center">
  <a href="https://www.linkedin.com/in/jonma0107/" target="_blank">  
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" 
    height="20" width="30" />LinkedIn  
