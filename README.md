@@ -45,7 +45,7 @@ I'm
 * 👨‍💻 I've been programming for 4+ years.
 * 📁 I'm currently working at [TicSocial](https://www.ticsocial.com.co/) as a Backend Developer.  
 
-## I'm currently learning
+## I'm currently learning:
 
 * 🎯 FastAPI framework for AI applications  
 * 🎯 AI Engineering (MLOps, pipelines, deployment)  
