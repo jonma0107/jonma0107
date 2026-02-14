@@ -176,12 +176,17 @@ I'm
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
-</p>
+</p> -->
 
+<div align="center">
+ 
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://open.spotify.com/user/8pjqu5zyoei65wp24bduzhavt)
+
+</div>
 
 <!-- 
 Los enlaces web que permiten la construcción de iconos en formato markdown:
@@ -190,4 +195,7 @@ https://simpleicons.org/
 https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges
 https://github.com/devicons/devicon/tree/master/icons
 https://patorjk.com/software/taag/#p=display&f=ANSI+Regular&t=Jonathan+Meza&x=none&v=4&h=4&w=80&we=false
+
+para configurar el tag de spotify:
+https://www.youtube.com/watch?v=wEg0N67wcXc
 -->
