@@ -153,14 +153,22 @@ I'm
  </a>  
 </div> --> 
 
-## How to reach me: 
+<!-- ## How to reach me: 
 
 <div align="center">
  <a href="https://www.linkedin.com/in/jonma0107/" target="_blank">  
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" 
    height="20" width="30" />LinkedIn  
  </a>  
-</div> 
+</div> -->
+
+## The Music Behind My Code:
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+  </a>
+</p>
 
 <!-- 
 Los enlaces web que permiten la construcción de iconos en formato markdown:
