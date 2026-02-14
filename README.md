@@ -170,11 +170,18 @@ I'm
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
+</p> -->
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
 </p>
+
 
 <!-- 
 Los enlaces web que permiten la construcción de iconos en formato markdown:
