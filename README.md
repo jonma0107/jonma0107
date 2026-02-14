@@ -162,11 +162,17 @@ I'm
  </a>  
 </div> -->
 
-## The Music Behind My Code:
+## The music behind my code:
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=light">
   </a>
 </p>
 
