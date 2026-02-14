@@ -184,7 +184,7 @@ I'm
 
 <div align="center">
  
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://open.spotify.com/user/8pjqu5zyoei65wp24bduzhavt)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
 </div>
 
