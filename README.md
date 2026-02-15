@@ -45,12 +45,6 @@ I'm
 * 👨‍💻 I've been programming for 4+ years.
 * 📁 I'm currently working at [TicSocial](https://www.ticsocial.com.co/) as a Backend Developer.  
 
-## I'm currently learning:
-
-* 🎯 FastAPI framework for AI applications  
-* 🎯 AI Engineering (MLOps, pipelines, deployment)  
-* 🎯 RAG & Agentic techniques
-
 ## Stack I work with:
 
 <div align="center">
@@ -74,6 +68,12 @@ I'm
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
+
+## I'm currently learning:
+
+* 🎯 FastAPI framework for AI applications  
+* 🎯 AI Engineering (MLOps, pipelines, deployment)  
+* 🎯 RAG & Agentic techniques
  
 <!-- <p align="center"> 
 <!-- PYTHON -->
