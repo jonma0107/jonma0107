@@ -164,11 +164,11 @@ I'm
 
 ## The music behind my code:
 
-<!-- <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+<p align="center">
+  <a href="https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
-</p> -->
+</p>
 
 <!-- <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&redirect=true">
@@ -182,11 +182,11 @@ I'm
   </a>
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
  
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn)
 
-</div>
+</div> -->
 
 <!-- 
 Los enlaces web que permiten la construcción de iconos en formato markdown:
