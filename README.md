@@ -71,8 +71,8 @@ I'm
 
 ## I'm currently learning:
 
-* 🎯 FastAPI framework for AI applications  
-* 🎯 AI Engineering (MLOps, pipelines, deployment)  
+* 🎯 AI Engineering (MLOps, pipelines, deployment) 
+* 🎯 FastAPI framework for AI applications 
 * 🎯 RAG & Agentic techniques
  
 <!-- <p align="center"> 
