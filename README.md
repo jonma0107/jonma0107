@@ -67,6 +67,7 @@ I'm
 ![Langchain](https://img.shields.io/badge/LangChain-FFFFFF?logo=LangChain&style=for-the-badge&color=412991&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
 </div>
 
