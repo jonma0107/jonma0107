@@ -47,7 +47,7 @@ I'm
 
 ## Stack I work with:
 
-<div align="center">
+<div>
  
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)][web1]
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)][web2]
