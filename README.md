@@ -47,7 +47,7 @@ I'm
 
 ## Stack I work with:
 
-<div>
+<div align="center">
  
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)][web1]
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)][web2]
@@ -56,6 +56,11 @@ I'm
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)][web5] 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)][web6]
 [![AWS-S3](https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
+[![AWS-Cloudwatch](https://img.shields.io/badge/AWS-Cloudwatch-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
+[![AWS-Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
+[![AWS-ECR](https://img.shields.io/badge/AWS-ECR-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
+[![AWS-APIGateway](https://img.shields.io/badge/AWS-APIGateway-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
+[![AWS-EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)][web8] 
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)][web9] 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][web10] 
