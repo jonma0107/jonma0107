@@ -55,12 +55,12 @@ I'm
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)][web4] 
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)][web5] 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)][web6]
+[![AWS-IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
 [![AWS-S3](https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
-[![AWS-Cloudwatch](https://img.shields.io/badge/AWS-Cloudwatch-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
-[![AWS-Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
 [![AWS-ECR](https://img.shields.io/badge/AWS-ECR-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
+[![AWS-Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
 [![AWS-APIGateway](https://img.shields.io/badge/AWS-APIGateway-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
-[![AWS-EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
+[![AWS-Cloudwatch](https://img.shields.io/badge/AWS-Cloudwatch-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)][web7]
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)][web8] 
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)][web9] 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][web10] 
@@ -73,6 +73,7 @@ I'm
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+![Serverless](https://img.shields.io/badge/serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
 
 </div>
 
