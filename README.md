@@ -42,7 +42,7 @@ I'm
 </div> -->
 
 * 🇨🇴 I live in Bogotá, Colombia.  
-* 👨‍💻 I've been programming for 4+ years.
+* 👨‍💻 I've been programming for 5+ years.
 * 📁 I'm currently working at [TicSocial](https://www.ticsocial.com.co/) as a Backend Developer.  
 
 ## Stack I work with:
