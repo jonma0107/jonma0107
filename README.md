@@ -20,6 +20,11 @@ https://www.jonathanmeza.com.co
 [web14]: https://developer.android.com/docs?hl=es-419
 [web15]: https://fastapi.tiangolo.com/es/deployment/docker/?h=docker#requisitos-del-paquete
 [web16]: https://streamlit.io/
+[web17]: https://www.serverless.com/
+[web18]: https://sentry.io/
+[web19]: https://n8n.io/
+[web20]: https://redis.io/
+[web21]: https://www.langchain.com/
 [website]: https://jonathanmeza.com.co/
 
 I'm
@@ -68,12 +73,12 @@ I'm
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][web12]
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)][web16]
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)][web15]
-[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)
-![Langchain](https://img.shields.io/badge/LangChain-FFFFFF?logo=LangChain&style=for-the-badge&color=412991&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-![Serverless](https://img.shields.io/badge/serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
+[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)[web13]
+![Langchain](https://img.shields.io/badge/LangChain-FFFFFF?logo=LangChain&style=for-the-badge&color=412991&logoColor=white)[web21]
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)[web20]
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)[web19]
+![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)[web18]
+![Serverless](https://img.shields.io/badge/serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)[web17]
 
 </div>
 
