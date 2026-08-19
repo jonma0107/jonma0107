@@ -178,7 +178,7 @@ I'm
 ## The music behind my code:
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn" target="_blank">
+  <a href="https://open.spotify.com/playlist/6VCSsLwDYPxoUMJ0AIVzNn&target=_blanck">
     <!-- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=spotify-embed&show_offline=false&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark"> -->
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8pjqu5zyoei65wp24bduzhavt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
   </a>
